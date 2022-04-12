@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x4938CAb6B83bB7cD864723c28829234F14182841",
+  "SCAN_LINK": "https://etherscan.io/address/0x4938cab6b83bb7cd864723c28829234f14182841",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Melancholy Monsters Club",
+  "SYMBOL": "Monster",
+  "MAX_SUPPLY": 5020,
+  "WEI_COST": 300000000000000000000,
+  "DISPLAY_COST": 0.03,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/melancholymonstersclub",
+  "SHOW_BACKGROUND": true
+}
